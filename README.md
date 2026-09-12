@@ -1,4 +1,4 @@
-# Simple Counter & Math Utility
+# Simple Counter 
 
 A clean, functional counter application that handles basic mathematical operations. I built this from scratch to practice handling numbers, user inputs, and math logic in code.
 
